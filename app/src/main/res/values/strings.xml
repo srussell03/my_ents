@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Events</string>
+    <string name="music_events">Seth\'s Music Hall Events</string>
+    <string name="dates">September 16th - November 22nd</string>
+    <string name="date">Event Date</string>
+    <string name="name">Event Name</string>
+    <string name="add_event">Add Event</string>
+</resources>
